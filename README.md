@@ -1,2 +1,5 @@
-# C Language
-C언어/C++ 연습공간
+# 프로그래밍 언어 - 웹 언어를 공부합시다.
+1. C언어/C++  - HTML5/CSS
+2. Java - JS/JQ
+3. C# - PHP
+4. Python - XML
